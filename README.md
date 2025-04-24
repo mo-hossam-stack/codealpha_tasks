@@ -7,10 +7,7 @@ It allows users to input their date of birth and calculate their exact age in ye
 - HTML
 - CSS
 - JavaScript
-
-## 📷 Screenshot
-![screenshot](screenshot.png)
-
+- 
 ## 📂 How to Run
 1. Download or clone the repository.
 2. Open `index.html` in any web browser.
